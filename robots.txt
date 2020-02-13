@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ubeixaise.daneweber.com/sitemap.xml
